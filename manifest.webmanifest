@@ -1,0 +1,10 @@
+{
+  "name": "Temple Bloom",
+  "short_name": "Temple Bloom",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1b1206",
+  "theme_color": "#1b1206",
+  "icons": [{ "src": "assets/images/icon/app.png", "sizes": "192x192", "type": "image/png" }]
+}
